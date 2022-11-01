@@ -1,0 +1,209 @@
+.inline_block{
+    display: inline;
+    margin-block-end: 0;
+    margin-block-start: 0;
+}
+
+div.nav{
+    width: 1318px;
+    height: 70px;
+    background-color: black;
+    margin-top: 30px;
+}
+
+.margin_zero{
+    margin: 0;
+}
+
+p.colorWhite{
+    color: white;
+}
+
+p.colorYellow{
+    color: yellow;
+}
+a.colorWhite{
+    color: white;
+}
+div.bg_gold{
+    background-color: gold;
+    width: 1318px;
+}
+
+h1.colorWhite{
+   color: white; 
+}
+div.bg_black{
+    background-color: black;
+}
+
+div.layoutSecondDiv{
+    width: 1318px;
+    height: 300px;
+    padding-top: 30px;
+
+}
+
+.bg_black{
+    background-color: black;
+}
+
+p.new{
+    margin-left: 0;
+    margin-right: 430px;
+}
+
+p.layoutInNav{
+    margin-left: 100px;
+}
+
+a.layoutInNav{
+    margin-right: 25px;
+}
+
+p.frontSizeNav{
+    font-size: 50px;
+}
+
+a.frontSizeNav{
+    font-size: 20px;
+}
+
+p.layoutSecondDiv{
+    display: inline;
+    margin-top: 10;
+    margin-bottom: 10;
+}
+p.marginBlockSecondDiv{
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+}
+
+p.frontSizeSecondDiv{
+    font-size: 50px;
+}
+p.colorRed{
+    color: red;
+    margin-left: 10px;
+}
+p.CapitalWordInSecondDiv{
+    font-size: 70px;
+}
+
+p.marginLeftSecondDiv{
+    margin-left: 200px;
+}
+
+div.textCenter{
+    text-align: center;
+}
+
+p.textSize{
+    font-size: 20px;
+}
+
+h1.textCenter{
+    text-align: center;
+}
+h3.textCenter{
+    text-align: center;
+}
+
+div.mainContentLayout{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+div.leftContent{
+    display: inline-block;
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 30px;
+    align-items: flex-start;
+    border-radius: 12px;
+}
+div.centerContent{
+    display: inline-block;
+    font-size: 30px;
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-left: 50px;
+    text-align: center;
+    align-items: flex-start;
+    border-radius: 12px;
+}
+div.rightContent{
+    display: inline-block;
+    font-size: 30px;
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-left: 50px;
+    text-align: center;
+    align-items:inherit;
+    border-radius: 12px;
+}
+p.color{
+    color:red;
+}
+
+div.footer{
+    text-align: center;
+}
+
+div.bgImg1{
+    background-image: url(../HTML/resources/TelevisonBoardcast.png);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+div.bgImg2{
+    background-image: url(../HTML/resources/PrintBoardcast.jpg);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+div.bgImg3{
+    background-image: url(../HTML/resources/OnlineMagezines.jpg);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+div.bgImg4{
+    background-image: url(../HTML/resources/RadioBoardcast.jpg);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+div.bgImg5{
+    background-image: url(../HTML/resources/Magezine.jpg);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+div.bgImg6{
+    background-image: url(../HTML/resources/PhotoJournalism.jpg);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+div.bgImg7{
+    background-image: url(../HTML/resources/Podcasts.jpg);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+div.bgImg8{
+    background-image: url(../HTML/resources/OnlineNewspaper.jpg);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+div.bgImg9{
+    background-image: url(../HTML/resources/RSSReaders.png);
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+}
+
+
